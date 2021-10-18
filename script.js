@@ -171,6 +171,8 @@ form.addEventListener('submit', (e) => {
        
         getMovies(API_URL);
     }
-})
+});
+
+
 
 
